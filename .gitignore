@@ -1,0 +1,6 @@
+.youtify
+test.txt
+*.mp3
+package-lock.json
+node_modules
+_credentials_.json
